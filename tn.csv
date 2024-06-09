@@ -1,0 +1,80 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Tunis,36.8064,10.1817,Tunisia,TN,Tunis,primary,602560,602560
+Sidi Bouzid,35.0381,9.4858,Tunisia,TN,Sidi Bouzid,admin,429912,429912
+Sfax,34.7400,10.7600,Tunisia,TN,Sfax,admin,265131,265131
+Sousse,35.8333,10.6333,Tunisia,TN,Sousse,admin,221530,221530
+Kairouan,35.6772,10.1008,Tunisia,TN,Kairouan,admin,186653,186653
+Métouia,33.9667,10.0000,Tunisia,TN,Gabès,,170000,170000
+Kebili,33.7050,8.9650,Tunisia,TN,Kébili,admin,163257,163257
+Sukrah,36.8833,10.2500,Tunisia,TN,L’Ariana,,129693,129693
+Gabès,33.8833,10.1167,Tunisia,TN,Gabès,admin,116323,116323
+Ariana,36.8625,10.1956,Tunisia,TN,L’Ariana,admin,114486,114486
+Sakiet ed Daier,34.8000,10.7800,Tunisia,TN,Sfax,,113776,113776
+Gafsa,34.4225,8.7842,Tunisia,TN,Gafsa,admin,111170,111170
+Msaken,35.7333,10.5833,Tunisia,TN,Sousse,,110000,110000
+Medenine,33.3547,10.5053,Tunisia,TN,Médenine,admin,109409,109409
+Béja,36.7333,9.1833,Tunisia,TN,Béja,admin,109299,109299
+Kasserine,35.1667,8.8333,Tunisia,TN,Kasserine,admin,108794,108794
+Radès,36.7667,10.2833,Tunisia,TN,Ben Arous,,97588,97588
+Hammamet,36.4000,10.6167,Tunisia,TN,Nabeul,,97579,97579
+Tataouine,32.9306,10.4500,Tunisia,TN,Tataouine,admin,95775,95775
+Monastir,35.7694,10.8194,Tunisia,TN,Monastir,admin,93306,93306
+La Marsa,36.8764,10.3253,Tunisia,TN,Tunis,,92987,92987
+Ben Arous,36.7472,10.3333,Tunisia,TN,Ben Arous,admin,88322,88322
+Sakiet ez Zit,34.8000,10.7700,Tunisia,TN,Sfax,,87512,87512
+Zarzis,33.5000,11.1167,Tunisia,TN,Médenine,,80000,80000
+Ben Gardane,33.1389,11.2167,Tunisia,TN,Médenine,,79912,79912
+Mahdia,35.5000,11.0667,Tunisia,TN,Mahdia,admin,79545,79545
+Houmt Souk,33.8667,10.8500,Tunisia,TN,Médenine,,75904,75904
+Fouchana,36.7000,10.1667,Tunisia,TN,Ben Arous,,74868,74868
+Le Kram,36.8333,10.3167,Tunisia,TN,Tunis,,74132,74132
+El Kef,36.1822,8.7147,Tunisia,TN,Kef,admin,73706,73706
+El Hamma,33.8864,9.7951,Tunisia,TN,Gabès,,73512,73512
+Nabeul,36.4542,10.7347,Tunisia,TN,Nabeul,admin,73128,73128
+Le Bardo,36.8092,10.1406,Tunisia,TN,Tunis,,71416,71416
+Djemmal,35.6400,10.7600,Tunisia,TN,Monastir,,70587,70587
+Korba,36.5667,10.8667,Tunisia,TN,Nabeul,,68966,68966
+Menzel Temime,36.7833,10.9833,Tunisia,TN,Nabeul,,65645,65645
+Ghardimaou,36.4500,8.4333,Tunisia,TN,Jendouba,,64170,64170
+Midoun,33.8000,11.0000,Tunisia,TN,Médenine,,63528,63528
+Menzel Bourguiba,37.1500,9.7833,Tunisia,TN,Bizerte,,61919,61919
+Manouba,36.8078,10.1011,Tunisia,TN,Manouba,admin,58792,58792
+Kélibia,36.8500,11.1000,Tunisia,TN,Nabeul,,58491,58491
+Rass el Djebel,37.2150,10.1200,Tunisia,TN,Bizerte,,58241,58241
+Oued Lill,36.8333,10.0500,Tunisia,TN,Manouba,,57882,57882
+Moknine,35.6333,10.9000,Tunisia,TN,Monastir,,57111,57111
+Bir Ali Ben Khalifa,34.7339,10.1000,Tunisia,TN,Sfax,,54143,54143
+Kelaa Kebira,35.8667,10.5333,Tunisia,TN,Sousse,,52685,52685
+El Jem,35.2967,10.7128,Tunisia,TN,Mahdia,,50611,50611
+Tebourba,36.8333,9.8333,Tunisia,TN,Manouba,,50458,50458
+Ksar Hellal,35.6429,10.8911,Tunisia,TN,Monastir,,49376,49376
+Douz,33.4500,9.0167,Tunisia,TN,Kébili,,47182,47182
+Bizerte,37.2778,9.8639,Tunisia,TN,Bizerte,admin,46700,46700
+Jendouba,36.5000,8.7833,Tunisia,TN,Jendouba,admin,46459,46459
+La Goulette,36.8181,10.3050,Tunisia,TN,Tunis,,45711,45711
+Jedeïda,36.8333,9.9167,Tunisia,TN,Manouba,,45000,45000
+Soliman,36.7000,10.4833,Tunisia,TN,Nabeul,,44672,44672
+Hammam Sousse,35.8589,10.5939,Tunisia,TN,Sousse,,42691,42691
+Sbiba,35.5467,9.0736,Tunisia,TN,Kasserine,,42091,42091
+Tabarka,36.9544,8.7581,Tunisia,TN,Jendouba,,41293,17425
+Sejenane,37.0564,9.2383,Tunisia,TN,Bizerte,,40166,40166
+Metlaoui,34.3333,8.4000,Tunisia,TN,Gafsa,,38634,38634
+Hammam-Lif,36.7333,10.3333,Tunisia,TN,Ben Arous,,38401,38401
+Teboulba,35.6700,10.9000,Tunisia,TN,Monastir,,37485,37485
+Tozeur,33.9167,8.1333,Tunisia,TN,Tozeur,admin,37365,37365
+Beni Khiar,36.4667,10.7833,Tunisia,TN,Nabeul,,36686,36686
+Dar Chabanne,36.4700,10.7500,Tunisia,TN,Nabeul,,35859,35859
+Aïne Draham,36.7833,8.7000,Tunisia,TN,Jendouba,,35400,35400
+Bou Salem,36.6167,8.9667,Tunisia,TN,Jendouba,,35192,35192
+Ez Zahra,36.7439,10.3083,Tunisia,TN,Ben Arous,,34962,34962
+Kalaa Srira,35.8236,10.5583,Tunisia,TN,Sousse,,34548,34548
+Skhira,34.3006,10.0708,Tunisia,TN,Sfax,,34511,34511
+Akouda,35.8714,10.5697,Tunisia,TN,Sousse,,34494,34494
+El Ksar,34.3900,8.8000,Tunisia,TN,Gafsa,,33729,33729
+Mateur,37.0400,9.6650,Tunisia,TN,Bizerte,,32546,32546
+Siliana,36.0819,9.3747,Tunisia,TN,Siliana,admin,31251,31251
+Rhennouch,33.9300,10.0700,Tunisia,TN,Gabès,,28051,28051
+Dahmani,35.9500,8.8333,Tunisia,TN,Kef,,27907,27907
+El Alia,37.1667,10.0333,Tunisia,TN,Bizerte,,27075,27075
+Ar Rudayyif,34.3833,8.1500,Tunisia,TN,Gafsa,,26976,26976
+Zaghouan,36.4000,10.1500,Tunisia,TN,Zaghouan,admin,20387,20387
